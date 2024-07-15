@@ -5,4 +5,6 @@
 # ☎️ Connie Voice Admin
 This repository is the serverless function source code powering the Connie Voice Admin Tools.
 
-more..
+npm install
+npm start
+localhost:3000/index.html
